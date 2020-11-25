@@ -1,2 +1,1 @@
-# upstream
-SWEN 101 prototype example 
+## Welcome to Upstream
